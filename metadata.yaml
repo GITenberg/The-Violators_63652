@@ -1,0 +1,21 @@
+_repo: The-Violators_63652
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Binder, Eando
+    gutenberg_agent_id: '33710'
+    url: http://www.gutenberg.org/2009/agents/33710
+    wikipedia: http://en.wikipedia.org/wiki/Eando_Binder
+description: ''
+gutenberg_issued: '2020-11-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63652'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Violators
+url: http://www.gutenberg.org/ebooks/63652
